@@ -12,6 +12,7 @@ python-dotenv = "^1.0.1"
 sqlmodel = "^0.0.22"
 click = "^8.1.8"
 rich = "^13.9.4"
+jupyterlab = "^4.3.4"
 
 
 [build-system]
